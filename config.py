@@ -12,8 +12,8 @@ class API:
     API_HASH = os.getenv("API_HASH", "8362067b5445fd55efd6b70d78f97fbd")
 
 class TOKENS:
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "6104008287:AAGFF2R6ytOT5yZLd6UZjPF-WaMzw8Iic2Q")
-    STRING_SESSION = os.getenv("STRING_SESSION", "BAGqvsEAbvm1EFPX2jmPWdG6Qc556BX86Tt2rgrpKDRdnMxoubgzaB3BTLZzmhiQLm9tglDJagpVpfHQb2RNUe3ODjzecqFVedWO0axreSSZa_kCdWCPQiLlliJAorwoSH7U8BvcPGwtozkb2JoDv4M8xP8Ky2YpS7iUyxODNE3E1jPPBvtIq8vTrvhL1j1DOKHrXwXc6tTi3-uOtg1S3GIK9uUh3NzIuAwVE1-p74cjXCVcBHq_XDPVExJ_dxwKQ4CkO_UHrm4l74P3_Vs7_8HmdxsGUw8cz6OAJ_fR-vGnJAlnVp38Ukyf03SPOFh-8UxAGY9mXKZm0ve51b5gOLAZgBM_mQAAAAGfUN2IAA")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "7736454439:AAEByOT89tseYQGHZUgyi5XZIeIGEq_OOUI")
+    STRING_SESSION = os.getenv("STRING_SESSION", "BQFHY-cAc82YPa9sLLsEzaaoAxHZtzAjJzIeO3OQeJxlAyHXndukZ1LeNTmBU7Zv03yoTk9wcT9ix1CkJTjfk6ag47Z0t8lb1jU2tHzgXepazERy8KHZrWuGIqweI-OUy7ylf3172Kk9xZhIp177FOe15RCLwRN3BBANP2csGxUQSscpHZQ_ISZ9238s-lS5DKjh2Xb7s8Fwarup20VmC2WmEWzR8TqntxeXUzrgakb6rvvaUOt1xu2bItqdA5YzVgLC03xRWT3lNTT_Mpt-RX2Wzimwy2qVxI5DFV2zoAfQlMlkpaNTptJgw1yy5GutkTwd24dAszqfBgPUDNp5vpY-sad50AAAAAGLVDWlAA")
 
 class config:
     MONGO_DATABASE = os.getenv("MONGO_DATABASE","mongodb+srv://Alisha:Alisha123@cluster0.yqcpftw.mongodb.net/?retryWrites=true&w=majority")
@@ -21,7 +21,7 @@ class DATABASE:
     MONGO_DB_URI = os.getenv("MONGO_DB_URI", "mongodb+srv://Alisha:Alisha123@cluster0.yqcpftw.mongodb.net/?retryWrites=true&w=majority")
 
 class DEV:
-    OWNER_ID = int(os.getenv("OWNER_ID", "6708316457"))
+    OWNER_ID = int(os.getenv("OWNER_ID", "6632519077"))
 
     # DONT EDIT THIS 
     SUDO_USERS = [] 
